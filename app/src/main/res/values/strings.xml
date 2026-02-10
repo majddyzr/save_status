@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WhatsApp Status Saver</string>
+    <string name="no_status_found">لا توجد حالات متاحة</string>
+    <string name="open_whatsapp_first">يرجى فتح الواتساب ومشاهدة الحالات أولاً</string>
+    <string name="permission_denied">تم رفض الصلاحية</string>
+    <string name="permission_required">نحتاج إلى صلاحية الوصول للتخزين</string>
+    <string name="status_saved">تم حفظ الحالة بنجاح</string>
+    <string name="error_saving">خطأ في حفظ الحالة</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="save">حفظ</string>
+    <string name="share">مشاركة</string>
+    <string name="delete">حذف</string>
+    <string name="preview">معاينة</string>
+</resources>
